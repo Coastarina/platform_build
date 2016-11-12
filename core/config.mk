@@ -662,7 +662,6 @@ GLOBAL_CFLAGS_NO_OVERRIDE := \
 
 GLOBAL_CLANG_CFLAGS_NO_OVERRIDE := \
     -Werror=address-of-temporary \
-    -Werror=null-dereference \
     -Werror=return-type \
 
 GLOBAL_CPPFLAGS_NO_OVERRIDE :=
